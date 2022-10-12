@@ -32,3 +32,9 @@ Subir la imagen al repositorio
 ```
 docker push klerith/nest-rest-prod 
 ```
+
+video de youtube
+```
+https://www.youtube.com/watch?v=l-UZQjdPUAI 
+```
+
